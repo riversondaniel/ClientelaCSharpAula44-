@@ -1,0 +1,7 @@
+C:\Users\riverson nobre\source\repos\clientela\clientela\bin\Debug\clientela.exe.config
+C:\Users\riverson nobre\source\repos\clientela\clientela\bin\Debug\clientela.exe
+C:\Users\riverson nobre\source\repos\clientela\clientela\bin\Debug\clientela.pdb
+C:\Users\riverson nobre\source\repos\clientela\clientela\obj\Debug\clientela.csproj.AssemblyReference.cache
+C:\Users\riverson nobre\source\repos\clientela\clientela\obj\Debug\clientela.csproj.CoreCompileInputs.cache
+C:\Users\riverson nobre\source\repos\clientela\clientela\obj\Debug\clientela.exe
+C:\Users\riverson nobre\source\repos\clientela\clientela\obj\Debug\clientela.pdb
